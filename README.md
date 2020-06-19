@@ -23,27 +23,60 @@ Mentee must be Black residents in the USA or Canada.
 
 We will have resources (here)[] for those who don't fit our criteria but come from other marginalized groups such as but not limited to Indigenous peoples, Syrians, Africans, migrant workers, Palestinians, Aborigines, and Afro Latinx, Uyghur and many more. 
 
-#Tech Education & Mentorship
+# Tech Education & Mentorship
 
 So you've read the why and who?  
 Now wondering the When, Where, How? 
 
 
 
-###Learning materail
-###Free
+## Learning Materails and Resources
+### Free
 (W3School)[]
+(free code camp)[https://www.freecodecamp.org/]
+(Khan Academy) [https://www.khanacademy.org/]
 
-###Freemium 
-(Codecademy)[]
 
-###Paid
+### Freemium 
+(Codecademy)[https://www.codecademy.com/]
+(Udemy)[https://www.udemy.com]
+(Coursera)[https://www.coursera.org]
+(edx)[https://www.edx.org/]
+(Futurelearn)[https://www.futurelearn.com/]
+()[https://www.creativelive.com/]
+(For Dummies) [https://www.dummies.com/] --(The website has tons of articles)
+
+### Paid
 (Trehouse)[]
-(Pluralsight)[]
+(Pluralsight)[https://www.pluralsight.com/]
+(MasterClass)[https://www.masterclass.com/]
+(Udacity)[https://www.udacity.com]
+(tutorialspoint) [https://www.tutorialspoint.com/index.htm]
+(Skillshare)[https://www.skillshare.com/home]
+(LinkedinLearning {formerly Lynda.com})(https://www.lynda.com/LinkedIn-training-tutorials/472-0.html)
 
 
-###Blogs
-(Hackernoon)[]
+### Blogs,Education Sources,Tools & Resources
+(Hackernoon)[https://hackernoon.com/]
+(MDBootstrap)[https://mdbootstrap.com/]
+(Zuba Foundation)[]
+(Python)[https://www.python.org/]
+(Markdown)[https://www.markdownguide.org/]
+(React.js)[https://reactjs.org/]
+(StackOverflow)[]
+(Angular.js)[https://angularjs.org/]
+(Stack Exchange)[https://stackexchange.com/]
+(Reddit)[]
+(Go)[https://golang.org/]
+(Rust)[https://www.rust-lang.org/]
+(Zurb Foundation)[https://get.foundation/]
+(Ruby)[https://www.ruby-lang.org/en/]
+(Jupyter)[https://jupyter.org/]
+(Toptal Blog) [https://www.toptal.com/blog]
+(PHP)[https://www.php.net/]
+(Redux)[https://redux.js.org/]
+(AWS)[https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v]
+
 
 Bootcamps
 [General Assembly)[]
