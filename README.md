@@ -1,15 +1,15 @@
-#THE ULTIMATE GET STARTED GUIDE
+# THE ULTIMATE GET STARTED GUIDE
 
 
 The Code Rep Collective is here to help propel a more equitable world! With so many people in the world unforunately many suffer, which means each group has specific needs. So in this moment we choose to rectify a right that the United States of America and Canada haven't properly done! As a community we choose to give the Black citizens of America an oppurtunity through tech education to 'level up' despite being "kneeled on" constantly throughout Americas 400 year old history. 
 
 Our stand and actions reflect a specfic mission to create equity for Black Americans: 
 
-#BLACK LIVES MATTER
+# BLACK LIVES MATTER
 
-#Black Education Matters
+# Black Education Matters
 
-#Black Prosperity Matters
+# Black Prosperity Matters
 
 This group was started as a direct response to the protest happening across the United States and eventually the rest of the world. These rotests are not results of the murder of #George Floyd, but are results of long term systematic oppression, this oppression was not corrected by the United States over the last 155 years after the abolition of slavery. Former slaves where offered 40 acres and a mule but instead were plagued by a new form of oppression known as Jim Crow. Since Jim Crow there has been a lot of back handed and racist policies that have continued to create stumbling blocks for black citize. These polcies often pit minority groups against each other, and created over policing, prison industrial complex, food deserts, and more.
 
@@ -32,50 +32,53 @@ Now wondering the When, Where, How?
 
 ## Learning Materails and Resources
 ### Free
-(W3School)[]
-(free code camp)[https://www.freecodecamp.org/]
-(Khan Academy) [https://www.khanacademy.org/]
+[W3School](https://www.w3schools.com/)
+[free code camp](https://www.freecodecamp.org/)
+[Khan Academy] (https://www.khanacademy.org/)
 
 
 ### Freemium 
-(Codecademy)[https://www.codecademy.com/]
-(Udemy)[https://www.udemy.com]
-(Coursera)[https://www.coursera.org]
-(edx)[https://www.edx.org/]
-(Futurelearn)[https://www.futurelearn.com/]
-()[https://www.creativelive.com/]
-(For Dummies) [https://www.dummies.com/] --(The website has tons of articles)
+[Codecademy](https://www.codecademy.com/)
+[Udemy](https://www.udemy.com)
+[Coursera](https://www.coursera.org)
+[edx](https://www.edx.org/)
+[Futurelearn](https://www.futurelearn.com/)
+[Creative Live](https://www.creativelive.com/)
+[For Dummies](https://www.dummies.com/) --(The website has tons of articles)
 
 ### Paid
-(Trehouse)[]
-(Pluralsight)[https://www.pluralsight.com/]
-(MasterClass)[https://www.masterclass.com/]
-(Udacity)[https://www.udacity.com]
-(tutorialspoint) [https://www.tutorialspoint.com/index.htm]
-(Skillshare)[https://www.skillshare.com/home]
-(LinkedinLearning {formerly Lynda.com})(https://www.lynda.com/LinkedIn-training-tutorials/472-0.html)
+[Trehouse]()
+[Pluralsight](https://www.pluralsight.com/)
+[MasterClass](https://www.masterclass.com/)
+[Udacity](https://www.udacity.com)
+[tutorialspoint](https://www.tutorialspoint.com/index.htm)
+[Skillshare](https://www.skillshare.com/home)
+[LinkedinLearning (formerly Lynda.com)](https://www.lynda.com/LinkedIn-training-tutorials/472-0.html)
 
 
 ### Blogs,Education Sources,Tools & Resources
-(Hackernoon)[https://hackernoon.com/]
-(MDBootstrap)[https://mdbootstrap.com/]
-(Zuba Foundation)[]
-(Python)[https://www.python.org/]
-(Markdown)[https://www.markdownguide.org/]
-(React.js)[https://reactjs.org/]
-(StackOverflow)[]
-(Angular.js)[https://angularjs.org/]
-(Stack Exchange)[https://stackexchange.com/]
-(Reddit)[]
-(Go)[https://golang.org/]
-(Rust)[https://www.rust-lang.org/]
-(Zurb Foundation)[https://get.foundation/]
-(Ruby)[https://www.ruby-lang.org/en/]
-(Jupyter)[https://jupyter.org/]
-(Toptal Blog) [https://www.toptal.com/blog]
-(PHP)[https://www.php.net/]
-(Redux)[https://redux.js.org/]
-(AWS)[https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v]
+[Hackernoon](https://hackernoon.com/)
+[MDBootstrap](https://mdbootstrap.com/)
+[Zuba Foundation]()
+[IBM Cloud](https://cloud.ibm.com/docs)
+[Python](https://www.python.org/)
+[Markdown](https://www.markdownguide.org/)
+[React.js](https://reactjs.org/)
+[StackOverflow]()
+[Angular.js](https://angularjs.org/)
+[Stack Exchange)[https://stackexchange.com/]
+[Reddit]()
+[Azure](https://docs.microsoft.com/en-us/azure/?product=featured)
+[Go](https://golang.org/)
+[Rust](https://www.rust-lang.org/)
+[Zurb Foundation](https://get.foundation/)
+[Ruby](https://www.ruby-lang.org/en/)
+[Jupyter](https://jupyter.org/)
+[Toptal Blog](https://www.toptal.com/blog)
+[PHP](https://www.php.net/)
+[Redux](https://redux.js.org/)
+[AWS](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v)
+[Google Cloud](https://cloud.google.com/docs)
 
 
 Bootcamps
