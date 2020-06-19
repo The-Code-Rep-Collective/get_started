@@ -32,54 +32,54 @@ Now wondering the When, Where, How?
 
 ## Learning Materails and Resources
 ### Free
-[W3School](https://www.w3schools.com/)
-[free code camp](https://www.freecodecamp.org/)
-[Khan Academy] (https://www.khanacademy.org/)
+-[W3School](https://www.w3schools.com/)
+-[free code camp](https://www.freecodecamp.org/)
+-[Khan Academy](https://www.khanacademy.org/)
 
 
 ### Freemium 
-[Codecademy](https://www.codecademy.com/)
-[Udemy](https://www.udemy.com)
-[Coursera](https://www.coursera.org)
-[edx](https://www.edx.org/)
-[Futurelearn](https://www.futurelearn.com/)
-[Creative Live](https://www.creativelive.com/)
-[For Dummies](https://www.dummies.com/) --(The website has tons of articles)
+-[Codecademy](https://www.codecademy.com/)
+-[Udemy](https://www.udemy.com)
+-[Coursera](https://www.coursera.org)
+-[edx](https://www.edx.org/)
+-[Future Learn](https://www.futurelearn.com/)
+-[Creative Live](https://www.creativelive.com/)
+-[For Dummies](https://www.dummies.com/) (The website has tons of articles)
 
 ### Paid
-[Trehouse]()
-[Pluralsight](https://www.pluralsight.com/)
-[MasterClass](https://www.masterclass.com/)
-[Udacity](https://www.udacity.com)
-[tutorialspoint](https://www.tutorialspoint.com/index.htm)
-[Skillshare](https://www.skillshare.com/home)
-[LinkedinLearning (formerly Lynda.com)](https://www.lynda.com/LinkedIn-training-tutorials/472-0.html)
+-[Trehouse]()
+-[Pluralsight](https://www.pluralsight.com/)
+-[MasterClass](https://www.masterclass.com/)
+-[Udacity](https://www.udacity.com)
+-[tutorialspoint](https://www.tutorialspoint.com/index.htm)
+-[Skillshare](https://www.skillshare.com/home)
+-[LinkedinLearning (formerly Lynda.com)](https://www.lynda.com/LinkedIn-training-tutorials/472-0.html)
 
 
 ### Blogs,Education Sources,Tools & Resources
-[Hackernoon](https://hackernoon.com/)
-[MDBootstrap](https://mdbootstrap.com/)
-[Zuba Foundation]()
-[IBM Cloud](https://cloud.ibm.com/docs)
-[Python](https://www.python.org/)
-[Markdown](https://www.markdownguide.org/)
-[React.js](https://reactjs.org/)
-[StackOverflow]()
-[Angular.js](https://angularjs.org/)
-[Stack Exchange)[https://stackexchange.com/]
-[Reddit]()
-[Azure](https://docs.microsoft.com/en-us/azure/?product=featured)
-[Go](https://golang.org/)
-[Rust](https://www.rust-lang.org/)
-[Zurb Foundation](https://get.foundation/)
-[Ruby](https://www.ruby-lang.org/en/)
-[Jupyter](https://jupyter.org/)
-[Toptal Blog](https://www.toptal.com/blog)
-[PHP](https://www.php.net/)
-[Redux](https://redux.js.org/)
-[AWS](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v)
-[Google Cloud](https://cloud.google.com/docs)
+-[Hackernoon](https://hackernoon.com/)
+-[MDBootstrap](https://mdbootstrap.com/)
+-[Zuba Foundation]()
+-[IBM Cloud](https://cloud.ibm.com/docs)
+-[Python](https://www.python.org/)
+-[Markdown](https://www.markdownguide.org/)
+-[React.js](https://reactjs.org/)
+-[StackOverflow]()
+-[Angular.js](https://angularjs.org/)
+-[Stack Exchange)[https://stackexchange.com/]
+-[Reddit]()
+-[Azure](https://docs.microsoft.com/en-us/azure/?product=featured)
+-[Go](https://golang.org/)
+-[Rust](https://www.rust-lang.org/)
+-[Zurb Foundation](https://get.foundation/)
+-[Ruby](https://www.ruby-lang.org/en/)
+-[Jupyter](https://jupyter.org/)
+-[Toptal Blog](https://www.toptal.com/blog)
+-[PHP](https://www.php.net/)
+-[Redux](https://redux.js.org/)
+-[AWS](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v)
+-[Google Cloud](https://cloud.google.com/docs)
 
 
-Bootcamps
-[General Assembly)[]
+### Bootcamps
+-[General Assembly)[]
